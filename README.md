@@ -2,10 +2,10 @@
 
 Here you can find some of my projects👷‍♀️🔧
 
-I'm a ✨curious problem solver✨ currently pursuing my **Master in Computer Science** at the **IT University of Copenhagen**.
+I'm a ✨curious problem solver✨ currently pursuing a **Master's in Computer Science** at the **IT University of Copenhagen**.
 
 I’m into **Machine Learning**, I like **Functional Programming**, and am curious about **Cybersecurity** and **Robotics**.  
-Right now, I’m exploring **DevOps**… and it’s a little spooky 👻
+Right now, I’m exploring **DevOps**… it’s a little spooky 👻
 
 ## 🌸 Tech Stack & Languages
 
