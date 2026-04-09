@@ -15,7 +15,9 @@ Right now, I’m exploring **DevOps**… it’s a little spooky 👻
 
 ## 🌼 Fun Projects
 
-- Let's just say that everything is very disorganized atm. Whoopsie
+Let's just say that everything is very disorganized atm. Whoopsie
+
+- [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | My focus: Github Workflows and Testing
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
