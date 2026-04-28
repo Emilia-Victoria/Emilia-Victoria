@@ -7,11 +7,12 @@ I'm a ✨curious problem solver✨, currently pursuing a **Master's in Computer 
 I’m into **Machine Learning**, I like **Functional Programming**, and am curious about **Cybersecurity** and **Robotics**.  
 Right now, I’m exploring **DevOps**… it’s a little spooky 👻
 
-## 🌸 Tech Stack & Languages
+## 🌸 Tech Stack
 
-- **Languages:** Python, Java, Go, F#, Scala
-- **Databases:** PostgreSQL
-- **Other Interests:** Functional Programming, Machine Learning, Cybersecurity, Robotics  
+- **Languages:** Python, Java, Go, F#, Scala, SQL
+- **Machine Learning:**  Deep Learning, Computer Vision, Generative Models
+- **DevOps and Software Engineering:** Github Actions, CI/CD, Testing, Docker
+- **Focus Areas:** Machine Learning, Functional Programming, Cybersecurity, Robotics  
 
 ## 🌼 Fun Projects
 
