@@ -17,7 +17,7 @@ Right now, I’m exploring **DevOps**… it’s a little spooky 👻
 
 Let's just say that everything is very disorganized atm. Whoopsie
 
-- [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | My focus: Github Workflows and Testing
+- [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | My focus: Github Workflows, Testing, and Security
 - [Training GANs on a small dataset](https://github.com/Emilia-Victoria/AML-2026-Miniproject) - PyTorch | Deep Learning | Image generation | DCGAN | WGAN-GP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
