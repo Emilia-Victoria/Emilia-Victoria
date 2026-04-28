@@ -11,19 +11,22 @@ Right now, I’m exploring **DevOps**… it’s a little spooky 👻
 
 - **Languages:** Python, Java, Go, F#, Scala
 - **Databases:** PostgreSQL
-- **Other Interests:** Functional Programming, AI/ML, Cybersecurity, Robotics  
+- **Other Interests:** Functional Programming, Machine Learning, Cybersecurity, Robotics  
 
 ## 🌼 Fun Projects
 
 Let's just say that everything is very disorganized atm. Whoopsie
 
 - [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | My focus: Github Workflows and Testing
+- [Training GANs on a small dataset](https://github.com/Emilia-Victoria/AML-2026-Miniproject) - PyTorch | Deep Learning | Image generation | DCGAN | WGAN-GP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![F#](https://img.shields.io/badge/F%23-378BBA?style=flat&logo=fsharp&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 
 <!--
 **Emilia-Victoria/Emilia-Victoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
