@@ -4,21 +4,21 @@ Here you can find some of my projects👷‍♀️🔧
 
 I'm a ✨curious problem solver✨, currently pursuing a **Master's in Computer Science** at the **IT University of Copenhagen**.
 
-I’m into **Machine Learning**, I like **Functional Programming**, and am curious about **Cybersecurity** and **Robotics**.  
-Right now, I’m exploring **DevOps**… it’s a little spooky 👻
+I’m into **Machine Learning**, I like **Functional Programming**, and I am exploring **Cybersecurity** and **Embedded Systems**.
 
 ## 🌸 Tech Stack
 
-- **Languages:** Python, Java, Go, F#, Scala, SQL
-- **Machine Learning:**  Deep Learning, Computer Vision, Generative Models
-- **DevOps and Software Engineering:** Github Actions, CI/CD, Testing, Docker
-- **Focus Areas:** Machine Learning, Functional Programming, Cybersecurity, Robotics  
+- **Languages:** Python • Go • F# • Scala • Java • SQL
+- **AI & Machine Learning:**  PyTorch • Deep Learning • Computer Vision • Generative Models
+- **DevOps and Software Engineering:** Git • Github Actions • CI/CD • Testing • Docker • IaC
+- **Hardware & Embedded:** Arduino • Embedded C++ • Fusion • Electronics
 
 ## 🌼 Fun Projects
 
-Let's just say that everything is very disorganized atm. Whoopsie
+Here are a few of my projects that showcase different areas of software engineering and machine learning.
 
-- [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | My focus: Github Workflows, Testing, and Security
+- [Magnet Fishing Game](https://github.com/Emilia-Victoria/HTMAA-Magnet-Fishing-Project) — Fusion | Arduino | Embedded C++ | Mechanical Design | Electronics | CAD
+- [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | Ansible | My focus: GitHub Workflows, Testing, and Security
 - [Training GANs on a small dataset](https://github.com/Emilia-Victoria/AML-2026-Miniproject) - PyTorch | Deep Learning | Image generation | DCGAN | WGAN-GP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
