@@ -17,7 +17,7 @@ I’m into **Machine Learning**, I like **Functional Programming**, and I am exp
 
 Here are a few of my projects that showcase different areas of software engineering and machine learning.
 
-- [Magnet Fishing Game](https://github.com/Emilia-Victoria/HTMAA-Magnet-Fishing-Project) 
+- [Magnet Fishing Game](https://github.com/Emilia-Victoria/HTMAA-Magnet-Fishing-Project) -
 A 3-axis automated magnet fishing game designed and built from scratch for the *How To Make (Almost) Anything* course.  
   Fusion | Arduino | Embedded C++ | Electronics
 - [DevOps Minitwit Group Project](https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets) - Go | Docker | Dagger | CI/CD | Ansible | My focus: GitHub Workflows, Testing, and Security
